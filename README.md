@@ -2,6 +2,8 @@ Infomationen nedan är gammal,
 men uppdaterade URL:ar, lösenord och headers finns här:
 https://gist.github.com/drygnet/deefff0757ced775429bf2be58b2ddc4
 
+2026-anteckningar om Filmstadens nuvarande webb-API finns i [FILMSTADEN_API.md](FILMSTADEN_API.md).
+
 # sf-api
 Api som används av SF-Bio -appen för iPhone
 
@@ -133,7 +135,6 @@ length: 66
 id: "77035780"
 }
 ``` 
-
 
 
 
